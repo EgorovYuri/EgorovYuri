@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EgorovYuri Russia, Moscow. Languages: Russian, English
+- 👋 Hi, I’m @EgorovYuri. Languages: Russian, English
 - 👀 I’m interested in programming, machine learning and analytics. Currently focus on Python, but have experience coding on Javascript and C#.
 - 🌱 I’m currently learning Math(Probability theory/Math. Statistics, Linear Algebra), Algorithms, Object-Oriented Programming, Async programming, ML algorithms, Data processing and Visualisation on Python.
 - Focusing on geting the internship and studying. 
